@@ -1,0 +1,1 @@
+Our office manager has found a strange USB-drive on her table. One of our system administrators said that there is a curious file. We suspect that this is a "gift" from our recently fired employees. We’ve heard that you are a true master and can do anything, even determine next to "whom" we can find the culprit.

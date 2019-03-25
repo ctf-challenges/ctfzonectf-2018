@@ -1,0 +1,7 @@
+To solve this task, you need to put arithmetic operators into expression in the right order.
+Allowed operators: + - / * (). Final expression must involve all the supplied numbers and the number order must be the same as in original expression. The last nuber in the line should be an answer.
+nc ppc-01.v7frkwrfyhsjtbpfcppnu.ctfz.one 2445
+
+Example:
+2 3 5 4
+(2-3)+5

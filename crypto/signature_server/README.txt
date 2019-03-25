@@ -1,0 +1,1 @@
+Quantum computing is on its way. That's why i implemented a post-quantum signature server. However, I believe Winternitz checksum can be broken, so I tweaked it a bit.Sign all you want, it's free!
